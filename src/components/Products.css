@@ -1,0 +1,22 @@
+.product-info p {
+  color: #777;
+  font-size: 14px;
+  margin: 8px 0 16px;
+}
+
+.service-btn {
+  display: inline-block;
+  padding: 12px 25px;
+  color: #fff;
+  background: #080808;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.service-btn:hover {
+  background: #b88635;
+  color: #111;
+}
